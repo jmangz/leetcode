@@ -1,5 +1,5 @@
-# leetcode
-
+# LeetCode
+My LeetCode solutions.
 ## Algorithms
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note|
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
