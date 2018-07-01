@@ -11,10 +11,6 @@
 // Input: "cbbd"
 // Output: "bb"
 
-function longestPalindrome(str) {
-
-}
-
 function isPalindrome(str) {
   for (let i = 0; i < str.length / 2; i += 1) {
     const startChar = str[i];
@@ -22,4 +18,24 @@ function isPalindrome(str) {
     if (startChar !== endChar) return false;
   }
   return true;
+}
+
+function slidingWindow(str, size) {
+  for (let i = 0; i <= str.length - size; i += 1) {
+    const word = str.slice(i, i + size);
+    if (isPalindrome(word)) return word;
+  }
+  return false;
+}
+
+function longestPalindrome(str) {
+  if (isPalindrome(str)) return str;
+
+  const result = str[0];
+
+  for (let i = 0; i < str.length - 2; i += 1) {
+    const word = slidingWindow(str, str.length - 1 - i);
+    if (word) return word;
+  }
+  return result;
 }
