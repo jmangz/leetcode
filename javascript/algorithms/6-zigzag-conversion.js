@@ -23,3 +23,65 @@
 // A   L S  I G
 // Y A   H R
 // P     I
+
+function convert(str, numRows) {
+  if (numRows === 1) return str;
+  if (numRows === 2) {
+    const even = [];
+    const odd = [];
+
+    for (let i = 0; i < str.length; i += 1) {
+      const char = str[i];
+      if (i % 2 === 0) even.push(char);
+      else odd.push(char);
+    }
+    return even.join('').concat(odd.join(''));
+  }
+  const toConvert = [];
+
+  for (let i = 0; i < numRows; i += 1) {
+    toConvert.push([]);
+  }
+
+  let counter = numRows - 2;
+  let j = 0;
+  let k = 0;
+  let flag = false;
+
+  for (let i = 0; i < str.length; i += 1) {
+    const char = str[i];
+    if (flag) {
+      if (j === counter) {
+        toConvert[j][k] = char;
+        counter -= 1;
+        j += 1;
+      } else {
+        toConvert[j][k] = '';
+        j += 1;
+        i -= 1;
+        if (counter === 0 && j === numRows) {
+          flag = false;
+          counter = numRows - 2;
+          j = 0;
+          k += 1;
+        } else if (j === numRows) {
+          j = 0;
+          k += 1;
+        }
+      }
+    } else {
+      toConvert[j][k] = char;
+      j += 1;
+      if (j === numRows) {
+        flag = true;
+        j = 0;
+        k += 1;
+      }
+    }
+  }
+
+  return toConvert.reduce((acc, row) => {
+    acc += row.join('');
+    return acc;
+  }, '');
+}
