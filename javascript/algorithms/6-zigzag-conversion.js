@@ -24,6 +24,7 @@
 // Y A   H R
 // P     I
 
+// Original attempt
 function convert(str, numRows) {
   if (numRows === 1) return str;
   if (numRows === 2) {
@@ -84,4 +85,22 @@ function convert(str, numRows) {
     acc += row.join('');
     return acc;
   }, '');
+}
+
+// Refactor
+function convert(str, numRows) {
+  if (numRows === 1) return str;
+
+  const rows = Array(Math.min(numRows, str.length)).fill('');
+  let curRow = 0;
+  let goingDown = false;
+  const strArray = str.split('');
+
+  strArray.forEach((char) => {
+    rows[curRow] += char;
+    if (curRow === 0 || curRow === numRows - 1) goingDown = !goingDown;
+    curRow += goingDown ? 1 : -1;
+  });
+
+  return rows.reduce((result, row) => result += row);
 }
