@@ -25,5 +25,3 @@ function reverse(int) {
 
   return Number(strForm);
 }
-
-console.log(reverse(-123));
