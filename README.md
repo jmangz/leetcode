@@ -9,3 +9,4 @@ My LeetCode solutions.
 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) | [JavaScript](./javascript/algorithms/4-median-of-two-sorted-arrays.js) | _O(log(m + n))_ | _O(1)_ | Hard | | |
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [JavaScript](./javascript/algorithms/5-longest-palindromic-substring.js) | _O(n^3)_ | _O(n)_ | Medium | | Can be solved with O(n^2), even O(n) |
 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [JavaScript](./javascript/algorithms/6-zigzag-conversion.js) | _O(n)_ | _O(n)_ | Medium | | |
+7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [JavaScript](./javascript/algorithms/7-reverse-integer.js) | _O(n)_ | _O(n)_ | Easy | | There's a O(log(n) / O(1) solution. )|
