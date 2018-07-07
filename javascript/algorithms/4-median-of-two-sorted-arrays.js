@@ -24,3 +24,10 @@ function findMedianSortedArrays(arr1, arr2) {
 
   return combined[middle - 0.5];
 }
+
+// O(log(min(m,n))) approach
+function findMedianSortedArrays(arr1, arr2) {
+  const m = arr1.length;
+  const n = arr2.length;
+
+}
