@@ -19,3 +19,16 @@
 // Follow up:
 //
 // Coud you solve it without converting the integer to a string?
+
+// Original attempt.
+function isPalindrome(num) {
+  const str = String(num);
+
+  for (let i = 0; i < str.length / 2; i += 1) {
+    const startChar = str[i];
+    const endChar = str[str.length - 1 - i];
+    if (startChar !== endChar) return false;
+  }
+
+  return true;
+}
