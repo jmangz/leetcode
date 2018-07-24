@@ -14,3 +14,4 @@ My LeetCode solutions.
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [JavaScript](./javascript/algorithms/9-palindrome-number.js) | _O(n)_ | _O(n)_ | Easy | | Possible to solve without converting to string? |
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [JavaScript](./javascript/algorithms/10-regular-expression-matching.js) | | | Hard | | |
 11 | [Container with most water]
+27 | [Remove Element](https://leetcode.com/problems/remove-element/description/)
