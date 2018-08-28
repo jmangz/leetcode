@@ -45,3 +45,19 @@ function dominantIndex(nums) {
 
   return largestI;
 }
+
+// Better O(n) time.
+function dominantIndex(nums) {
+  let largest = 0;
+  let largestIndex = -1;
+  for (let i = 0; i < nums.length; i += 1) {
+    const current = nums[i];
+    if (current / 2 >= largest) {
+      largest = current;
+      largestIndex = i;
+    } else if (largest / 2 < current) {
+      largestIndex = -1;
+    }
+  }
+  return largestIndex;
+}
