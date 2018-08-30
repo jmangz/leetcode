@@ -15,6 +15,6 @@ My LeetCode solutions.
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [JavaScript](./javascript/algorithms/10-regular-expression-matching.js) | | | Hard | | |
 11 | [Container with most water](https://leetcode.com/problems/container-with-most-water/description/)
 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [JavaScript](./javascript/algorithms/27-remove-element.js) | _O(n)_ | _O(1)_ | Easy | | |
+66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./javascript/algorithms/66-plus-one.js) | _O(n)_ | _O(n)_ | Easy | | |g
 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [JavaScript](./javascript/algorithms/724-find-pivot-index.js) | _O(n)_ | _O(1)_ | Easy | | |
 747 | [Largest Number at Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [JavaScript](./javascript/algorithms/747-largest-number-at-least-twice-of-others.js) | _O(n)_ | _O(1)_ | Easy | | |
-66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./javascript/algorithms/66-plus-one.js) | _O(n)_ | _O(n)_ | Easy | | |g
