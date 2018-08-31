@@ -10,7 +10,7 @@ My LeetCode solutions.
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/description/) | [JavaScript](./javascript/algorithms/5-longest-palindromic-substring.js) | _O(n^3)_ | _O(n)_ | Medium | | Can be solved with O(n^2), even O(n) |
 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion) | [JavaScript](./javascript/algorithms/6-zigzag-conversion.js) | _O(n)_ | _O(n)_ | Medium | | |
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [JavaScript](./javascript/algorithms/7-reverse-integer.js) | _O(n)_ | _O(n)_ | Easy | | There's a O(log(n)) / O(1) solution. |
-8 | [String to Interger](https://leetcode.com/problems/string-to-integer-atoi/) | [JavaScript](./javascript/algorithms/8-string-to-integer.js) | _O(n)_ | _O(n)_ | Medium | | Refactor |
+8 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [JavaScript](./javascript/algorithms/8-string-to-integer.js) | _O(n)_ | _O(n)_ | Medium | | Refactor |
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [JavaScript](./javascript/algorithms/9-palindrome-number.js) | _O(n)_ | _O(n)_ | Easy | | Possible to solve without converting to string? |
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [JavaScript](./javascript/algorithms/10-regular-expression-matching.js) | | | Hard | | |
 11 | [Container with most water](https://leetcode.com/problems/container-with-most-water/description/)
