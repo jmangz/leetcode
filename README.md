@@ -15,7 +15,7 @@ My LeetCode solutions.
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [JavaScript](./javascript/algorithms/10-regular-expression-matching.js) | | | Hard | | |
 11 | [Container with most water](https://leetcode.com/problems/container-with-most-water/description/)
 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [JavaScript](./javascript/algorithms/27-remove-element.js) | _O(n)_ | _O(1)_ | Easy | | |
-28 } [Implement strStr](https://leetcode.com/problems/implement-strstr/description/) | [JavaScript](./javascript/algorithms/28-implement-strStr.js) } | _O(n)_ | _O(1)_ | Easy | | |
+28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/description/) | [JavaScript](./javascript/algorithms/28-implement-strStr.js) } | _O(n)_ | _O(1)_ | Easy | | |
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [JavaScript](./javascript/algorithms/54-spiral-matrix.js) | _O(n)_ | _O(n)_ | Medium | | |
 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./javascript/algorithms/66-plus-one.js) | _O(n)_ | _O(n)_ | Easy | | |
 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [JavaScript](./javascript/algorithms/67-add-binary.js) | _O(n)_ | _O(n)_ | Easy | | |
