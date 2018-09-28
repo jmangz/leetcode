@@ -14,6 +14,7 @@ My LeetCode solutions.
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [JavaScript](./javascript/algorithms/9-palindrome-number.js) | _O(n)_ | _O(n)_ | Easy | | Possible to solve without converting to string? |
 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [JavaScript](./javascript/algorithms/10-regular-expression-matching.js) | | | Hard | | |
 11 | [Container with most water](https://leetcode.com/problems/container-with-most-water/description/)
+14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [JavaScript](./javascript/algorithms/14-longest-common-prefix.js) | _O(n^2)_ | _O(n)_ | Easy | | |
 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [JavaScript](./javascript/algorithms/27-remove-element.js) | _O(n)_ | _O(1)_ | Easy | | |
 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/description/) | [JavaScript](./javascript/algorithms/28-implement-strStr.js) | _O(n)_ | _O(1)_ | Easy | | |
 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [JavaScript](./javascript/algorithms/54-spiral-matrix.js) | _O(n)_ | _O(n)_ | Medium | | |
