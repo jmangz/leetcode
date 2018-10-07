@@ -21,6 +21,7 @@ My LeetCode solutions.
 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./javascript/algorithms/66-plus-one.js) | _O(n)_ | _O(n)_ | Easy | | |
 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [JavaScript](./javascript/algorithms/67-add-binary.js) | _O(n)_ | _O(n)_ | Easy | | |
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [JavaScript](./javascript/algorithms/118-pascals-triangle.js) | _O(n^2)_ | _O(n^2)_ | Easy | | |
+344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [JavaScript](./javascript/algorithms/344-reverse-string.js) | _O(n)_ | _O(n)_ | Easy | | |
 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [JavaScript](./javascript/algorithms/498-diagonal-traverse.js) | _O(n)_ | _O(n)_ | Medium | | |
 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [JavaScript](./javascript/algorithms/724-find-pivot-index.js) | _O(n)_ | _O(1)_ | Easy | | |
 747 | [Largest Number at Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [JavaScript](./javascript/algorithms/747-largest-number-at-least-twice-of-others.js) | _O(n)_ | _O(1)_ | Easy | | |
