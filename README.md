@@ -21,6 +21,7 @@ My LeetCode solutions.
 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./javascript/algorithms/66-plus-one.js) | _O(n)_ | _O(n)_ | Easy | | |
 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [JavaScript](./javascript/algorithms/67-add-binary.js) | _O(n)_ | _O(n)_ | Easy | | |
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [JavaScript](./javascript/algorithms/118-pascals-triangle.js) | _O(n^2)_ | _O(n^2)_ | Easy | | |
+167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [JavaScript](./javascript/algorithms/167-two-sum-ii.js) | _O(n)_ | _O(n)_ | Easy | | |
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [JavaScript](./javascript/algorithms/344-reverse-string.js) | _O(n)_ | _O(n)_ | Easy | | |
 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [JavaScript](./javascript/algorithms/498-diagonal-traverse.js) | _O(n)_ | _O(n)_ | Medium | | |
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [JavaScript](./javascript/algorithms/561-array-partition-i.js) | _O(nlog(n))_ | _O(n)_ | Easy | | |
