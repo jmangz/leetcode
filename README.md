@@ -23,6 +23,7 @@ My LeetCode solutions.
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [JavaScript](./javascript/algorithms/118-pascals-triangle.js) | _O(n^2)_ | _O(n^2)_ | Easy | | |
 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [JavaScript](./javascript/algorithms/167-two-sum-ii.js) | _O(n)_ | _O(n)_ | Easy | | |
 344 | [Reverse String](https://leetcode.com/problems/reverse-string/description/) | [JavaScript](./javascript/algorithms/344-reverse-string.js) | _O(n)_ | _O(n)_ | Easy | | |
+485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [JavaScript](./javascript/algorithms/485-max-consecutive-ones.js) | _O(n)_ | _O(1)_ | Easy | | |
 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [JavaScript](./javascript/algorithms/498-diagonal-traverse.js) | _O(n)_ | _O(n)_ | Medium | | |
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [JavaScript](./javascript/algorithms/561-array-partition-i.js) | _O(nlog(n))_ | _O(n)_ | Easy | | |
 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [JavaScript](./javascript/algorithms/724-find-pivot-index.js) | _O(n)_ | _O(1)_ | Easy | | |
