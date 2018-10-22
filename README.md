@@ -21,6 +21,7 @@ My LeetCode solutions.
 66 | [Plus One](https://leetcode.com/problems/plus-one/description/) | [JavaScript](./javascript/algorithms/66-plus-one.js) | _O(n)_ | _O(n)_ | Easy | | |
 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [JavaScript](./javascript/algorithms/67-add-binary.js) | _O(n)_ | _O(n)_ | Easy | | |
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [JavaScript](./javascript/algorithms/118-pascals-triangle.js) | _O(n^2)_ | _O(n^2)_ | Easy | | |
+119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [JavaScript](./javascript/algorithms/119-pascals-triangle-ii.js) | _O(n)_ | _O(n)_ | Easy | | |
 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [JavaScript](./javascript/algorithms/167-two-sum-ii.js) | _O(n)_ | _O(n)_ | Easy | | |
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [JavaScript](./javascript/algorithms/189-rotate-array.js) | _O(n)_ | _O(1)_ | Easy | | |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [JavaScript](./javascript/algorithms/198-house-robber.js) | _O(n)_ | _O(n)_ | Easy | | |
