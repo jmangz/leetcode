@@ -12,8 +12,8 @@ My LeetCode solutions.
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/description/) | [JavaScript](./javascript/algorithms/7-reverse-integer.js) | _O(n)_ | _O(n)_ | Easy | | There's a O(log(n)) / O(1) solution. |
 8 | [String to Integer](https://leetcode.com/problems/string-to-integer-atoi/) | [JavaScript](./javascript/algorithms/8-string-to-integer.js) | _O(n)_ | _O(n)_ | Medium | | Refactor |
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/description/) | [JavaScript](./javascript/algorithms/9-palindrome-number.js) | _O(n)_ | _O(n)_ | Easy | | Possible to solve without converting to string? |
-10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [JavaScript](./javascript/algorithms/10-regular-expression-matching.js) | | | Hard | | |
-11 | [Container with most water](https://leetcode.com/problems/container-with-most-water/description/)
+10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/) | [JavaScript](./javascript/algorithms/10-regular-expression-matching.js) | | | Hard | | Not finished |
+11 | [Container with most water](https://leetcode.com/problems/container-with-most-water/description/) | | | | |
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [JavaScript](./javascript/algorithms/14-longest-common-prefix.js) | _O(n^2)_ | _O(n)_ | Easy | | |
 27 | [Remove Element](https://leetcode.com/problems/remove-element/description/) | [JavaScript](./javascript/algorithms/27-remove-element.js) | _O(n)_ | _O(1)_ | Easy | | |
 28 | [Implement strStr](https://leetcode.com/problems/implement-strstr/description/) | [JavaScript](./javascript/algorithms/28-implement-strStr.js) | _O(n)_ | _O(1)_ | Easy | | |
