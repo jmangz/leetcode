@@ -82,3 +82,7 @@ const removeDuplicates = function (nums) {
 
   return j;
 };
+
+const a = [1, 1, 1, 2, 2, 3];
+
+console.log(removeDuplicates(a));
