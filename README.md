@@ -23,6 +23,7 @@ My LeetCode solutions.
 67 | [Add Binary](https://leetcode.com/problems/add-binary/description/) | [JavaScript](./javascript/algorithms/67-add-binary.js) | _O(n)_ | _O(n)_ | Easy | | |
 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/) | [JavaScript](./javascript/algorithms/118-pascals-triangle.js) | _O(n^2)_ | _O(n^2)_ | Easy | | |
 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [JavaScript](./javascript/algorithms/119-pascals-triangle-ii.js) | _O(n)_ | _O(n)_ | Easy | | |
+144 | [Binary Search Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [JavaScript](./javascript/algorithms/144-binary-search-preorder-traversal.js) | _O(n)_ | _O(n)_ | Medium | | |
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [JavaScript](./algorithms/javascript/151-reverse-words-in-a-string.js) | _O(n)_ | _O(n))_ | Medium | | |
 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [JavaScript](./javascript/algorithms/167-two-sum-ii.js) | _O(n)_ | _O(n)_ | Easy | | |
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [JavaScript](./javascript/algorithms/189-rotate-array.js) | _O(n)_ | _O(1)_ | Easy | | |
