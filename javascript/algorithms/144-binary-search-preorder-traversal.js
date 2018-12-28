@@ -34,12 +34,12 @@ function preorderTraversalIterative(root) {
   let current = root;
 
   while (stack.length !== 0) {
+    current = stack.pop();
     if (current !== null) {
       result.push(current.val);
       if (current.right) stack.push(current.right);
       if (current.left) stack.push(current.left);
     }
-    current = stack.pop();
   }
 
   return result;
