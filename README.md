@@ -36,5 +36,6 @@ My LeetCode solutions.
 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/description/) | [JavaScript](./javascript/algorithms/498-diagonal-traverse.js) | _O(n)_ | _O(n)_ | Medium | | |
 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [JavaScript](./algorithms/javascript/557-reverse-words-in-a-string-iii.js) | _O(n)_ | _O(n)_ | Easy | | |
 561 | [Array Partition I](https://leetcode.com/problems/array-partition-i/description/) | [JavaScript](./javascript/algorithms/561-array-partition-i.js) | _O(nlog(n))_ | _O(n)_ | Easy | | |
+622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [JavaScript](./javascript/algorithms/622-design-circular-queue.js) | _O(1)_ | _O(1)_ | Medium | | |
 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/) | [JavaScript](./javascript/algorithms/724-find-pivot-index.js) | _O(n)_ | _O(1)_ | Easy | | |
 747 | [Largest Number at Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/) | [JavaScript](./javascript/algorithms/747-largest-number-at-least-twice-of-others.js) | _O(n)_ | _O(1)_ | Easy | | |
