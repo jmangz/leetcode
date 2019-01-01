@@ -25,6 +25,7 @@ My LeetCode solutions.
 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [JavaScript](./javascript/algorithms/119-pascals-triangle-ii.js) | _O(n)_ | _O(n)_ | Easy | | |
 144 | [Binary Search Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | [JavaScript](./javascript/algorithms/144-binary-search-preorder-traversal.js) | _O(n)_ | _O(n)_ | Medium | | |
 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [JavaScript](./algorithms/javascript/151-reverse-words-in-a-string.js) | _O(n)_ | _O(n))_ | Medium | | |
+160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [JavaScript](./javascript/algorithms/160-intersection-of-two-linked-lists.js) | _O(n)_ | _O(1)_ | Easy | | |
 167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [JavaScript](./javascript/algorithms/167-two-sum-ii.js) | _O(n)_ | _O(n)_ | Easy | | |
 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [JavaScript](./javascript/algorithms/189-rotate-array.js) | _O(n)_ | _O(1)_ | Easy | | |
 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [JavaScript](./javascript/algorithms/198-house-robber.js) | _O(n)_ | _O(n)_ | Easy | | |
