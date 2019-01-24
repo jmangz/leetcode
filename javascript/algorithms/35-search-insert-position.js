@@ -20,6 +20,7 @@
 // Input: [1,3,5,6], 0
 // Output: 0
 
+// Original attempt
 function searchInsert(nums, target) {
   const { length } = nums;
 
@@ -34,12 +35,13 @@ function searchInsert(nums, target) {
   }
 }
 
+// Optimized solution
 function searchInsert(nums, target) {
-  var a = nums.length;
-for (var i = 0; i < a; i++) {
-    if (nums[i] >= target) {
-        return i
-    }
-}
-return a
+  const { length } = nums;
+
+  for (var i = 0; i < length; i += 1) {
+    if (nums[i] >= target) return i;
+  }
+
+  return length;
 }
